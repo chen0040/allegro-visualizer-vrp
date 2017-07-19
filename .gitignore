@@ -6,6 +6,8 @@
 *.user
 *.psd
 
+*.db
+
 # Prerequisites
 *.d
 
